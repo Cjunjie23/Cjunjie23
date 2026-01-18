@@ -1,6 +1,6 @@
 # Hi, I'm Chong Jun Jie
 
-### A passionate game developer
+### A passionate future game developer
 
 - 🌱 I'm currently learning **Computer Science (Graphics and Multimedia Software) in UTM**
 
