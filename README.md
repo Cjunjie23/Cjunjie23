@@ -1,4 +1,4 @@
-# <img src="![Image](https://github.com/user-attachments/assets/8e348c97-ed4a-4bed-ae7d-1e4bc0aebf5e)" width="64" height="64" /> Hi, I'm Chong Jun Jie <img src="https://media.tenor.com/rAmtc_yaEIYAAAAj/firefly-hsr-firefly.gif" width="64" height="64" />
+# <img src=![Image](https://github.com/user-attachments/assets/8e348c97-ed4a-4bed-ae7d-1e4bc0aebf5e) width="64" height="64" /> Hi, I'm Chong Jun Jie <img src="https://media.tenor.com/rAmtc_yaEIYAAAAj/firefly-hsr-firefly.gif" width="64" height="64" />
 
 ###### A passionate future game developer
 
