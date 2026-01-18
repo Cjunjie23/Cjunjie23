@@ -13,7 +13,7 @@
 
 <h3 align="left">Skills and Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=C++,github)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,vscode,microsoft,github)
 
 <!--
 **Cjunjie23/Cjunjie23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
