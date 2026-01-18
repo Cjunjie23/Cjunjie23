@@ -1,4 +1,4 @@
-# Hi, I'm Chong Jun Jie
+### Hi, I'm Chong Jun Jie
 
 ### A passionate future game developer
 
