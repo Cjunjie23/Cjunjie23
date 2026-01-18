@@ -1,6 +1,6 @@
 ### <img src="https://i.redd.it/1ovkryfpy10g1.gif" width="45" height="45" /> Hi, I'm Chong Jun Jie <img src="https://media.tenor.com/rAmtc_yaEIYAAAAj/firefly-hsr-firefly.gif" width="45" height="45" />
 
-### A passionate future game developer
+## A passionate future game developer
 
 - 🌱 I'm currently learning **Computer Science (Graphics and Multimedia Software) in UTM**
 
