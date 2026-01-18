@@ -2,9 +2,9 @@
 
 ###### A passionate future game developer
 
-#### - 🌱 I'm currently learning **Computer Science (Graphics and Multimedia Software) in UTM**
+####  🌱 I'm currently learning **Computer Science (Graphics and Multimedia Software) in UTM**
 
-#### - 📫 You can contact me at **chongjun.jie@graduate.utm.my**
+####  📫 You can contact me at **chongjun.jie@graduate.utm.my**
 
 <h3 align="left">Languages and Tools:</h3>
 
