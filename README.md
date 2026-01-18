@@ -1,4 +1,4 @@
-# <img src="https://i.redd.it/1ovkryfpy10g1.gif" width="64" height="64" /> Hi, I'm Chong Jun Jie <img src="https://media.tenor.com/rAmtc_yaEIYAAAAj/firefly-hsr-firefly.gif" width="64" height="64" />
+# <img src="https://i.redd.it/1ovkryfpy10g1.gif" width="64" height="64" /> <text src="Hi, I'm Chong Jun Jie" width="64" height="64" /> Hi, I'm Chong Jun Jie <img src="https://media.tenor.com/rAmtc_yaEIYAAAAj/firefly-hsr-firefly.gif" width="64" height="64" />
 
 ###### A passionate future game developer
 
