@@ -1,4 +1,4 @@
- ### Hi, I'm Chong Jun Jie
+<img src="https://i.redd.it/1ovkryfpy10g1.gif" width="45" height="45" /> ### Hi, I'm Chong Jun Jie
 
 ### A passionate future game developer
 
