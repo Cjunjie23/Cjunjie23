@@ -6,13 +6,13 @@
 
 ####  📫 You can contact me at **chongjun.jie@graduate.utm.my**
 
-<h3 align="left">Languages and Tools:</h3>
+### <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,vscode,github)
+### ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,vscode,github)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Cjunjie23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Cjunjie23" height="30" width="40" /></a>
+### <h3 align="left">Connect with me:</h3>
+### <p align="left">
+### <a href="https://github.com/Cjunjie23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Cjunjie23" height="30" width="40" /></a>
 </p>
 
 
