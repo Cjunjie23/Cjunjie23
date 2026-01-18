@@ -1,5 +1,4 @@
-## Hi there 👋
-# I'm Chong Jun Jie
+# Hi, I'm Chong Jun Jie
 
 ### A passionate game developer
 
