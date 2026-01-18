@@ -1,4 +1,4 @@
-<img src="[(https://www.reddit.com/r/HonkaiStarRail/comments/1orq5tu/you_look_lonely_trailblazer_i_can_fix_that_cyrene/)]" width="20" height="20" alt="icon description">### Hi, I'm Chong Jun Jie
+<img src="[https://www.reddit.com/r/HonkaiStarRail/comments/1orq5tu/you_look_lonely_trailblazer_i_can_fix_that_cyrene/]" width="20" height="20" >### Hi, I'm Chong Jun Jie
 
 ### A passionate future game developer
 
